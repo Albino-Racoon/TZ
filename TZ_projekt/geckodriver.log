@@ -1,0 +1,442 @@
+1702490379364	geckodriver	INFO	Listening on 127.0.0.1:56813
+1702490382398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofilel2zK3s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702490382831	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702490383414	Marionette	INFO	Listening on port 56836
+Read port: 56836
+1702490383607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702490396428	Marionette	INFO	Stopped listening on port 56836
+JavaScript warning: https://www.ajpes.si/public/Scripts/jquery.mCustomScrollbar.concat.min.js, line 4: Script terminated by timeout at:
+N/o/f[0].autoUpdate<@https://www.ajpes.si/public/Scripts/jquery.mCustomScrollbar.concat.min.js:4:31240
+
+Dynamically enable window occlusion 1
+1702490566255	geckodriver	INFO	Listening on 127.0.0.1:57038
+1702490569332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofile8CSvWc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702490569702	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702490570199	Marionette	INFO	Listening on port 57050
+Read port: 57050
+1702490570383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+1702490615861	geckodriver	INFO	Listening on 127.0.0.1:57135
+1702490618908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofile3pXmVM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702490619331	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702490619839	Marionette	INFO	Listening on port 57147
+Read port: 57147
+1702490620029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702490649422	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702490802974	geckodriver	INFO	Listening on 127.0.0.1:57302
+1702490806031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofile9gahrc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702490806398	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702490806895	Marionette	INFO	Listening on port 57313
+Read port: 57313
+1702490807076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702490838270	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1702490902072	geckodriver	INFO	Listening on 127.0.0.1:57430
+1702490905101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofile7chrCt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702490905459	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702490905993	Marionette	INFO	Listening on port 57441
+Read port: 57441
+1702490906152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+1702490936410	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702491098229	Marionette	INFO	Stopped listening on port 57441
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofileFJFeeo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702491008742	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702491008837	Marionette	INFO	Listening on port 57523
+Read port: 57523
+1702491008996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702491039397	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702491095936	Marionette	INFO	Stopped listening on port 57523
+Dynamically enable window occlusion 1
+sY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702491039627	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702491039722	Marionette	INFO	Listening on port 57602
+Read port: 57602
+1702491039882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702491069645	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702491089516	Marionette	INFO	Stopped listening on port 57602
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1702491226099	geckodriver	INFO	Listening on 127.0.0.1:57770
+1702491229180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofilertqlnN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702491229561	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702491230115	Marionette	INFO	Listening on port 57782
+Read port: 57782
+1702491230295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702491249501	Marionette	INFO	Stopped listening on port 57782
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "user-agent=Marko Novak" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofileOYQQXI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702491234813	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 447: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+console.error: ({})
+1702491234921	Marionette	INFO	Listening on port 57823
+Read port: 57823
+1702491235078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702491265429	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702491505006	Marionette	INFO	Stopped listening on port 57823
+Dynamically enable window occlusion 1
+JE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702491262767	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702491263206	Marionette	INFO	Listening on port 57913
+Read port: 57913
+1702491263367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702491292846	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702491309875	Marionette	INFO	Stopped listening on port 57913
+Dynamically enable window occlusion 1
+1702491329865	geckodriver	INFO	Listening on 127.0.0.1:58003
+1702491332924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofile0v1BkC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702491333259	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702491333744	Marionette	INFO	Listening on port 58015
+Read port: 58015
+1702491333913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702491364163	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+e" "--marionette" "user-agent=Marko Novak" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofileGmydaC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702491338313	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 447: NS_ERROR_MALFORMED_URI: Couldn't build a valid uri
+console.error: ({})
+1702491338414	Marionette	INFO	Listening on port 58049
+Read port: 58049
+1702491338576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702491368905	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+ofileHSpsq5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702491366025	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702491366150	Marionette	INFO	Listening on port 58142
+Read port: 58142
+1702491366345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1702491431691	geckodriver	INFO	Listening on 127.0.0.1:58229
+1702491434776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; W ... ) Chrome/58.0.3029.110 Safari/537.36" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofilePI1FA8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702491435112	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702491435611	Marionette	INFO	Listening on port 58242
+Read port: 58242
+1702491435771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702491465994	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702491504690	Marionette	INFO	Stopped listening on port 58242
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+OOLS=1 in the environment
+1702491460985	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702491461113	Marionette	INFO	Listening on port 58318
+Read port: 58318
+1702491461324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702491492698	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702491504175	Marionette	INFO	Stopped listening on port 58318
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1702491507191	geckodriver	INFO	Listening on 127.0.0.1:58399
+1702491510278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofileiYa90I"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702491510622	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702491511156	Marionette	INFO	Listening on port 58410
+Read port: 58410
+1702491511324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702491541598	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+ppData\\Local\\Temp\\rust_mozprofileiMAeu0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702491536632	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702491536726	Marionette	INFO	Listening on port 58488
+Read port: 58488
+1702491536885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702491568168	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1702491572411	geckodriver	INFO	Listening on 127.0.0.1:58565
+1702491575458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofileJ5ffva"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702491575797	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702491576320	Marionette	INFO	Listening on port 58577
+Read port: 58577
+1702491576503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702491606001	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1702491729474	geckodriver	INFO	Listening on 127.0.0.1:58741
+1702491732567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofileLfblww"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702491732911	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702491733488	Marionette	INFO	Listening on port 58752
+Read port: 58752
+1702491733668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702491762959	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Exiting due to channel error.
+1702491960799	geckodriver	INFO	Listening on 127.0.0.1:58969
+1702491963877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofileYKZ5Ri"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702491964239	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702491964787	Marionette	INFO	Listening on port 58981
+Read port: 58981
+1702491964962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702491995285	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702492055710	Marionette	INFO	Stopped listening on port 58981
+Dynamically enable window occlusion 1
+1702492481392	geckodriver	INFO	Listening on 127.0.0.1:59352
+1702492484476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofileMHXJYC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702492484882	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702492485445	Marionette	INFO	Listening on port 59363
+Read port: 59363
+1702492485636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702492514914	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702492603204	Marionette	INFO	Stopped listening on port 59363
+Dynamically enable window occlusion 1
+1702493294996	geckodriver	INFO	Listening on 127.0.0.1:60077
+1702493298066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofileyuadco"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702493298427	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702493298918	Marionette	INFO	Listening on port 60087
+Read port: 60087
+1702493299089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702493330370	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702493418072	Marionette	INFO	Stopped listening on port 60087
+Dynamically enable window occlusion 1
+1702493816345	geckodriver	INFO	Listening on 127.0.0.1:60255
+1702493819424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofileKOWK1P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702493819802	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702493820311	Marionette	INFO	Listening on port 60265
+Read port: 60265
+1702493820567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+1702493849976	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702493872484	Marionette	INFO	Stopped listening on port 60265
+Dynamically enable window occlusion 1
+1702493945916	geckodriver	INFO	Listening on 127.0.0.1:60333
+1702493948955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofileybYJdM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702493949300	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702493949789	Marionette	INFO	Listening on port 60350
+Read port: 60350
+1702493949964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+1702493980052	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702498095132	Marionette	INFO	Stopped listening on port 60350
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofileFHvPtJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702494034743	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702494034837	Marionette	INFO	Listening on port 60422
+Read port: 60422
+1702494034997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+1702494064818	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702494065185	Marionette	INFO	Stopped listening on port 60422
+Dynamically enable window occlusion 1
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 321))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+1702494102456	geckodriver	INFO	Listening on 127.0.0.1:60492
+1702494105555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofile0oRanQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702494105830	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702494105926	Marionette	INFO	Listening on port 60502
+Read port: 60502
+1702494106085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702494137371	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702498094441	Marionette	INFO	Stopped listening on port 60502
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofile1RL5Uh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702494200244	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702494200343	Marionette	INFO	Listening on port 60582
+Read port: 60582
+1702494200505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+1702494230367	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702498086006	Marionette	INFO	Stopped listening on port 60582
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofile82BUbh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702494524066	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702494524272	Marionette	INFO	Listening on port 61161
+Read port: 61161
+1702494524501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+1702494554183	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702498092303	Marionette	INFO	Stopped listening on port 61161
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofileFB1It8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702494601258	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702494601523	Marionette	INFO	Listening on port 61298
+Read port: 61298
+1702494601787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1702494632634	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+JavaScript warning: resource://pdf.js/web/viewer.mjs, line 3777: Script terminated by timeout at:
+_updateInternalState@resource://pdf.js/web/viewer.mjs:3777:3
+_pushOrReplaceState@resource://pdf.js/web/viewer.mjs:3691:10
+_tryPushCurrentPosition@resource://pdf.js/web/viewer.mjs:3719:12
+_pageHide@resource://pdf.js/web/viewer.mjs:3872:12
+
+1702498093794	Marionette	INFO	Stopped listening on port 61298
+Dynamically enable window occlusion 1
+nvironment
+1702496910438	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702496910844	Marionette	INFO	Listening on port 61867
+Read port: 61867
+1702496911084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702496940859	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702497008108	Marionette	INFO	Stopped listening on port 61867
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1702497011828	geckodriver	INFO	Listening on 127.0.0.1:61966
+1702497014887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofilepuOCRR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702497015509	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702497015832	Marionette	INFO	Listening on port 61976
+Read port: 61976
+1702497016178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+1702497045736	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+JavaScript warning: resource://pdf.js/web/viewer.mjs, line 3777: Script terminated by timeout at:
+_updateInternalState@resource://pdf.js/web/viewer.mjs:3777:3
+_pushOrReplaceState@resource://pdf.js/web/viewer.mjs:3691:10
+_tryPushCurrentPosition@resource://pdf.js/web/viewer.mjs:3719:12
+_pageHide@resource://pdf.js/web/viewer.mjs:3872:12
+
+1702497921454	Marionette	INFO	Stopped listening on port 61976
+Dynamically enable window occlusion 1
+nvironment
+1702497144556	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702497144827	Marionette	INFO	Listening on port 62058
+Read port: 62058
+1702497145156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1702497174713	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+1702497298053	Marionette	INFO	Stopped listening on port 62058
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1702497348475	geckodriver	INFO	Listening on 127.0.0.1:62183
+1702497351489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofiledvuv3b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702497352043	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702497352264	Marionette	INFO	Listening on port 62193
+Read port: 62193
+1702497352503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+1702497382497	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1702497422761	geckodriver	INFO	Listening on 127.0.0.1:62269
+1702497426629	geckodriver	INFO	Listening on 127.0.0.1:62274
+1702497429677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jasar\\AppData\\Local\\Temp\\rust_mozprofile2mTjHe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702497430204	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702497430435	Marionette	INFO	Listening on port 62285
+Read port: 62285
+1702497430674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ajpes.si."
+1702497461999	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.

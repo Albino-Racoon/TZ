@@ -1,0 +1,236 @@
+ Gender Department Height Weight
+0 Male BCA 100,0 58,0
+1 Female BCA 90,0 40,0
+2 Male BCA 159,0 78,0
+3 Female BCA 147,0 20,0
+4 Male BCA 170,0 54,0
+5 Female BCA 139,0 33,0
+6 Male BCA 165,0 50,0
+7 Male BCA 152,0 43,0
+8 Male BCA 190,0 85,0
+9 Male BCA 150,0 84,0
+10 Male BCA 99,0 50,0
+11 Female BCA 152,0 51,0
+12 Female BCA 158,0 64,0
+13 Male BCA 160,0 52,0
+14 Male BCA 160,0 83,0
+15 Male BCA 156,0 68,0
+16 Male BCA 153,0 52,0
+17 Male BCA 162,0 60,0
+18 Male BCA 150,0 60,0
+19 Female BCA 109,0 42,0
+20 Male BCA 160,0 50,0
+21 Male BCA 154,0 51,0
+22 Female BCA 142,0 42,0
+23 Male BCA 180,0 90,0
+24 Male BCA 167,0 85,0
+25 Male BCA 90,0 89,0
+26 Male BCA 175,0 73,0
+27 Male BCA 151,0 69,0
+28 Female BCA 145,0 39,0
+29 Female BCA 99,0 40,0
+30 Male BCA 151,0 52,0
+31 Male BCA 158,0 63,0
+32 Male BCA 160,0 60,0
+33 Male BCA 163,0 55,0
+34 Male BCA 160,0 70,0
+35 Male BCA 144,0 50,0
+36 Female BCA 155,0 48,0
+37 Female BCA 150,0 45,0
+38 Male BCA 185,0 72,0
+39 Male BCA 165,0 50,0
+40 Female BCA 175,0 43,0
+41 Female BCA 98,0 35,0
+42 Female Commerce 159,0 95,0
+43 Male Commerce 160,0 70,0
+44 Male Commerce 160,0 65,0
+45 Female "B.com Accounting and Finance " 154,0 45,0
+46 Male "B.com Accounting and Finance " 160,0 80,0
+47 Male "B.com Accounting and Finance " 90,0 83,0
+48 Male "B.com Accounting and Finance " 156,0 70,0
+49 Male "B.com Accounting and Finance " 155,0 55,0
+50 Male "B.com Accounting and Finance " 153,0 56,0
+51 Female "B.com Accounting and Finance " 157,0 53,0
+52 Male "B.com Accounting and Finance " 170,0 65,0
+53 Female Commerce 159,0 67,0
+54 Female Commerce 180,0 43,0
+55 Male Commerce 100,0 47,0
+56 Female Commerce 156,0 52,0
+57 Female Commerce 167,0 62,0
+58 Female Commerce 152,0 60,0
+59 Male "B.com Accounting and Finance " 152,0 50,0
+60 Female Commerce 146,0 61,0
+61 Female Commerce 156,0 42,0
+62 Male Commerce 190,0 90,0
+63 Male BCA 155,0 89,0
+64 Male BCA 160,0 55,0
+65 Male BCA 153,0 75,0
+66 Female BCA 160,0 42,0
+67 Male BCA 100,0 93,0
+68 Male BCA 157,0 58,0
+69 Male BCA 162,0 73,0
+70 Male BCA 99,0 78,0
+71 Female BCA 162,0 60,0
+72 Female BCA 160,0 35,0
+73 Male BCA 190,0 70,0
+74 Male BCA 160,0 60,0
+75 Male BCA 150,0 74,0
+76 Female BCA 175,0 65,0
+77 Male BCA 172,0 91,0
+78 Male BCA 157,0 76,0
+79 Male BCA 100,0 60,0
+80 Female BCA 155,0 52,0
+81 Female BCA 156,0 58,0
+82 Male BCA 106,0 64,0
+83 Male BCA 170,0 67,0
+84 Male BCA 171,0 60,0
+85 Male BCA 177,0 75,0
+86 Female BCA 170,0 45,0
+87 Female BCA 180,0 75,0
+88 Male BCA 174,0 54,0
+89 Male BCA 172,0 56,0
+90 Female BCA 153,0 50,0
+91 Male BCA 158,0 75,0
+92 Male BCA 177,0 70,0
+93 Male BCA 175,0 65,0
+94 Male BCA 170,0 70,0
+95 Male BCA 180,0 80,0
+96 Female BCA 4,5 42,0
+97 Male BCA 170,0 70,0
+98 Male BCA 178,0 83,0
+99 Male BCA 180,0 67,0
+100 Female BCA 150,0 48,0
+101 Female BCA 170,0 50,0
+102 Female BCA 162,0 65,0
+103 Male BCA 170,0 65,0
+104 Male BCA 153,0 63,0
+105 Male BCA 165,0 84,0
+106 Male BCA 163,0 60,0
+107 Male BCA 183,0 80,0
+108 Male BCA 175,0 85,0
+109 Male BCA 156,0 53,0
+110 Male BCA 154,0 50,0
+111 Female BCA 172,0 49,0
+112 Male BCA 155,0 52,0
+113 Male BCA 172,0 72,0
+114 Male BCA 181,0 60,0
+115 Male BCA 150,0 65,0
+116 Male BCA 179,0 70,0
+117 Male BCA 187,0 65,0
+118 Male BCA 167,0 80,0
+119 Male BCA 170,0 50,0
+120 Female "B.com Accounting and Finance " 132,0 57,0
+121 Male BCA 169,0 85,0
+122 Male BCA 150,0 60,0
+123 Male BCA 180,0 75,0
+124 Female BCA 154,0 45,0
+125 Female BCA 139,0 62,0
+126 Male BCA 175,0 60,0
+127 Male BCA 172,0 72,0
+128 Male BCA 170,0 55,0
+129 Male BCA 170,0 65,0
+130 Male BCA 185,0 65,0
+131 Male BCA 177,0 57,0
+132 Male BCA 170,0 86,0
+133 Male "B.com Accounting and Finance " 174,0 65,0
+134 Male BCA 167,0 72,0
+135 Female BCA 155,0 48,0
+136 Male BCA 134,0 40,0
+137 Male BCA 159,0 51,0
+138 Female BCA 150,0 50,0
+139 Female BCA 150,0 40,0
+140 Male BCA 180,0 85,0
+141 Male BCA 120,0 55,0
+142 Male BCA 182,0 58,0
+143 Male BCA 165,0 67,0
+144 Female "B.com Accounting and Finance " 160,0 38,0
+145 Male "B.com Accounting and Finance " 170,0 80,0
+146 Male BCA 165,0 45,0
+147 Female "B.com Accounting and Finance " 148,0 78,0
+148 Female "B.com Accounting and Finance " 130,0 35,0
+149 Female BCA 140,0 45,0
+150 Male BCA 175,0 70,0
+151 Male BCA 175,0 76,0
+152 Male BCA 160,0 70,0
+153 Female BCA 155,0 43,0
+154 Female BCA 156,0 50,0
+155 Female BCA 160,0 50,0
+156 Male BCA 175,0 68,9
+157 Female BCA 155,0 50,0
+158 Male Commerce 150,0 55,0
+159 Male Commerce 165,0 75,0
+160 Male Commerce 156,0 50,0
+161 Male Commerce 167,0 53,0
+162 Male Commerce 165,0 64,0
+163 Male Commerce 190,0 106,0
+164 Male Commerce 192,0 85,0
+165 Male Commerce 173,0 58,0
+166 Female Commerce 145,0 60,0
+167 Male Commerce 170,0 90,0
+168 Male Commerce 169,0 65,0
+169 Male Commerce 175,0 59,0
+170 Female Commerce 150,0 42,0
+171 Male Commerce 178,0 60,0
+172 Female Commerce 157,0 40,0
+173 Female Commerce 160,0 40,0
+174 Male Commerce 159,0 80,0
+175 Male Commerce 182,0 57,0
+176 Female Commerce 150,0 54,0
+177 Female Commerce 154,0 62,0
+178 Female Commerce 165,0 75,0
+179 Female Commerce 150,0 40,0
+180 Female "B.com ISM" 149,0 50,0
+181 Male "B.com ISM" 150,0 48,0
+182 Female "B.com ISM" 160,0 50,0
+183 Male "B.com ISM" 173,0 92,0
+184 Male "B.com ISM" 150,0 48,0
+185 Male "B.com ISM" 163,0 80,0
+186 Male "B.com ISM" 168,0 48,0
+187 Male "B.com ISM" 162,0 85,0
+188 Male "B.com ISM" 170,0 80,0
+189 Male "B.com ISM" 145,0 50,0
+190 Male "B.com ISM" 160,0 52,0
+191 Male "B.com ISM" 180,0 65,0
+192 Male "B.com ISM" 149,0 35,0
+193 Male "B.com ISM" 173,0 60,0
+194 Female "B.com ISM" 149,0 40,0
+195 Male "B.com ISM" 170,0 55,0
+196 Female "B.com ISM" 155,0 39,0
+197 Male "B.com ISM" 153,0 45,0
+198 Male "B.com ISM" 170,0 65,0
+199 Male "B.com ISM" 173,0 75,0
+200 Male "B.com ISM" 170,0 60,0
+201 Male "B.com ISM" 120,0 74,0
+202 Female Commerce 160,0 68,0
+203 Male Commerce 140,0 86,0
+204 Male Commerce 165,0 60,0
+205 Male Commerce 161,0 55,0
+206 Female Commerce 146,0 39,0
+207 Male Commerce 155,0 70,0
+208 Male Commerce 120,0 80,0
+209 Male Commerce 160,0 70,0
+210 Female Commerce 152,0 32,0
+211 Male Commerce 168,0 75,0
+212 Female Commerce 152,0 64,0
+213 Male Commerce 156,0 45,0
+214 Female Commerce 151,0 55,0
+215 Female Commerce 165,0 62,0
+216 Female Commerce 160,0 60,0
+217 Female Commerce 153,0 58,0
+218 Male Commerce 175,0 75,0
+219 Male Commerce 161,0 54,0
+220 Male Commerce 160,0 60,0
+221 Female Commerce 153,0 45,0
+222 Male Commerce 160,0 50,0
+223 Male Commerce 170,0 65,0
+224 Female Commerce 152,0 65,0
+225 Female Commerce 164,0 43,0
+226 Female Commerce 167,0 65,0
+227 Male "B.com ISM" 167,0 55,0
+228 Male "B.com ISM" 155,0 68,0
+229 Female "B.com ISM" 153,0 60,0
+230 Male "B.com ISM" 170,0 76,0
+231 Male "B.com ISM" 172,0 52,0
+232 Female BCA 139,0 33,0
+233 Female Commerce 153,0 58,0
+234 Female "B.com ISM" 155,0 39,0

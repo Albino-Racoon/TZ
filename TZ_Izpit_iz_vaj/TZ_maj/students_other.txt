@@ -1,0 +1,236 @@
+	hobbies	salary expectation	like degree	pursue a career	social media	travelling time	stress level 	financial status	part-time job
+0	Video Games	40000	No	50%	1.30 - 2 hour	30 - 60 minutes	Bad	Bad	No
+1	Cinema	15000	Yes	75%	1 - 1.30 hour	0 - 30 minutes	Bad	Bad	No
+2	Cinema	13000	Yes	50%	More than 2 hour		Awful	Bad	No
+3	Reading books	1500000	No	50%	1.30 - 2 hour	0 - 30 minutes	Bad	good	No
+4	Video Games	50000	Yes	25%	1.30 - 2 hour	30 - 60 minutes	Good	good	No
+5	Cinema		Yes	50%	30 - 60 Minute	0 - 30 minutes	Bad	good	No
+6	Reading books	15000	Yes	75%	1 - 1.30 hour	1 - 1.30 hour	Good	good	No
+7	Sports	25000	Yes	50%	1 - 1.30 hour	1 - 1.30 hour	Good	good	No
+8	Video Games	20000	Yes	75%	1.30 - 2 hour	1 - 1.30 hour	Bad	Bad	No
+9	Video Games	20000	Yes	75%	30 - 60 Minute	30 - 60 minutes	Good	good	No
+10	Video Games	18000	Yes	75%	1 - 1.30 hour	0 - 30 minutes	Good	Bad	No
+11	Cinema		Yes	75%	1 - 1.30 hour	2 - 2.30 hour	Bad	Bad	No
+12	Reading books	18000	Yes	75%	1 - 30 Minute		Bad	good	No
+13	Cinema	17	Yes	75%	30 - 60 Minute	1.30 - 2 hour	Good	Awful	No
+14	Cinema	60000	Yes	75%	1 - 30 Minute	30 - 60 minutes	Good	good	No
+15	Video Games	18000	Yes	75%	1 - 1.30 hour	more than 3 hour	Good	Bad	No
+16		15000	Yes	75%	1.30 - 2 hour	30 - 60 minutes	Good	good	Yes
+17	Cinema	0	Yes	100%	1 - 1.30 hour	1 - 1.30 hour	Bad	Bad	No
+18	Cinema	30000	Yes	100%	1 - 30 Minute	1 - 1.30 hour	Bad	Bad	No
+19	Cinema	20000	Yes	100%	1 - 30 Minute	30 - 60 minutes	Good	good	No
+20	Sports	10000	Yes	75%	30 - 60 Minute	1 - 1.30 hour	Bad	Bad	Yes
+21	Cinema	20000	Yes	50%	1 - 30 Minute	1 - 1.30 hour	Good	Bad	No
+22	Cinema	25000	Yes	75%	1 - 1.30 hour	1 - 1.30 hour	Bad	good	No
+23	Video Games	18000	Yes	50%	1 - 1.30 hour	30 - 60 minutes	Good	good	No
+24	Cinema	20000	Yes	50%	1.30 - 2 hour	2 - 2.30 hour	Awful	good	No
+25	Sports	18000	Yes	75%	30 - 60 Minute	30 - 60 minutes	Bad	good	Yes
+26	Cinema	30000	Yes	50%	0 Minute	1 - 1.30 hour	Good	Bad	No
+27	Sports	15000	Yes	100%	1 - 1.30 hour	30 - 60 minutes	Good	good	No
+28	Sports	20000	Yes	100%	0 Minute	1 - 1.30 hour	Awful	Bad	Yes
+29	Reading books	15000	Yes	75%	1 - 1.30 hour	30 - 60 minutes	Good	Bad	No
+30	Sports	30000	Yes	75%	30 - 60 Minute	1.30 - 2 hour	Good		No
+31	Sports	30000	Yes	100%	30 - 60 Minute	2.30 - 3 hour	Good	Bad	No
+32	Sports	20000	Yes	75%	1 - 30 Minute	1.30 - 2 hour	Good	Awful	No
+33	Cinema	15000	Yes	75%	1 - 1.30 hour	0 - 30 minutes	Awful	Bad	No
+34	Video Games	17000	Yes	75%	30 - 60 Minute	30 - 60 minutes	Bad	good	No
+35	Sports	15000	Yes	50%	1 - 1.30 hour	1.30 - 2 hour	Bad	Bad	No
+36	Sports	15000	Yes	100%	1 - 1.30 hour	1 - 1.30 hour	Good		No
+37	Cinema	25000	Yes	100%	1 - 1.30 hour	0 - 30 minutes	Awful	good	No
+38	Video Games	40000	Yes	75%	More than 2 hour	30 - 60 minutes	Good	Bad	No
+39	Video Games	10000	No	25%	30 - 60 Minute	1 - 1.30 hour	Bad	Bad	No
+40	Sports	50000	Yes	50%	1 - 30 Minute	1 - 1.30 hour	Bad	good	No
+41	Reading books	20000	Yes	75%	1.30 - 2 hour	30 - 60 minutes	Good	good	No
+42	Cinema	10000	Yes	50%	More than 2 hour	0 - 30 minutes	Good	good	No
+43	Cinema	20000	Yes	100%	1 - 30 Minute	0 - 30 minutes	Good	good	Yes
+44	Sports	20000	Yes	75%	1 - 1.30 hour	30 - 60 minutes	Good	good	Yes
+45	Sports	10000	Yes	25%	1 - 1.30 hour	0 - 30 minutes	Bad	good	No
+46	Sports	30000	Yes	75%	More than 2 hour	1.30 - 2 hour	Good	good	No
+47	Video Games	100000	Yes	75%	30 - 60 Minute	1.30 - 2 hour	Awful	good	No
+48	Reading books	20000	Yes	50%	30 - 60 Minute	30 - 60 minutes	fabulous	good	No
+49	Reading books	15000	Yes	75%	1 - 30 Minute	30 - 60 minutes	Good	good	No
+50	Sports	50000	Yes	75%	30 - 60 Minute	2 - 2.30 hour	Awful	Awful	Yes
+51	Sports	8000	Yes	100%	0 Minute	1 - 1.30 hour	Bad	Bad	No
+52	Reading books	15000	Yes	100%	1.30 - 2 hour	30 - 60 minutes	Bad	good	No
+53	Reading books	15000	Yes	100%	1.30 - 2 hour	more than 3 hour	Good	Bad	No
+54	Reading books	10000	Yes	75%	1.30 - 2 hour	30 - 60 minutes	Bad	good	No
+55	Sports	20000	Yes	75%	1 - 1.30 hour	30 - 60 minutes	fabulous	Bad	No
+56	Reading books	15000	Yes	100%	1 - 30 Minute	0 - 30 minutes	fabulous	Bad	Yes
+57	Sports	18000	Yes	75%	1 - 1.30 hour	1 - 1.30 hour	Good	good	No
+58	Sports	20000	Yes	100%	1 - 30 Minute	0 - 30 minutes	Good	good	No
+59	Sports	50000	Yes	75%	1 - 1.30 hour	30 - 60 minutes	Bad	Bad	Yes
+60	Cinema	15000	Yes	75%	1 - 30 Minute	30 - 60 minutes	Good	good	No
+61	Cinema	15000	Yes	75%	30 - 60 Minute	30 - 60 minutes	Good	good	No
+62	Cinema	15000	Yes	100%	More than 2 hour	30 - 60 minutes	Awful	Bad	Yes
+63	Sports	20000	No	25%	More than 2 hour	30 - 60 minutes	Bad	Awful	Yes
+64	Video Games	20000	Yes	50%	More than 2 hour	30 - 60 minutes	Bad	good	No
+65	Cinema	25000	Yes	75%	More than 2 hour	1.30 - 2 hour	Good	good	Yes
+66	Reading books	20000	Yes	75%	1 - 30 Minute	1 - 1.30 hour	Good	good	No
+67	Reading books	18000	Yes	75%	30 - 60 Minute	30 - 60 minutes	Bad	Bad	No
+68	Cinema	50000	Yes	75%	30 - 60 Minute	2 - 2.30 hour	Good	good	No
+69	Reading books	10000	Yes	75%	1 - 30 Minute	1 - 1.30 hour	Bad	good	No
+70	Sports	15000	Yes	25%	1.30 - 2 hour	0 - 30 minutes	Bad	Bad	Yes
+71	Sports	20000	Yes	50%	1 - 1.30 hour	30 - 60 minutes	Bad	good	No
+72	Cinema	10000	No	25%	1 - 30 Minute	1 - 1.30 hour	Good	Bad	No
+73	Sports	50000	Yes	50%	30 - 60 Minute	1 - 1.30 hour	Bad	good	No
+74	Video Games	20000	Yes	75%	1 - 1.30 hour	more than 3 hour	Good	good	Yes
+75	Sports	20000	Yes	75%	1 - 1.30 hour	0 - 30 minutes	Good	good	No
+76	Reading books	20000	Yes	100%	1 - 30 Minute	30 - 60 minutes	Good	good	No
+77	Cinema	15000	Yes	75%	1 - 1.30 hour	1 - 1.30 hour	Good	good	No
+78	Sports		Yes	75%	1 - 1.30 hour	2 - 2.30 hour	Bad	Fabulous	No
+79	Reading books	18000	No	50%	30 - 60 Minute	2.30 - 3 hour	Awful	Awful	No
+80	Sports	12000	Yes	75%	1.30 - 2 hour	30 - 60 minutes	Good	Bad	No
+81	Cinema	10000	Yes	75%	More than 2 hour	30 - 60 minutes	Good	good	No
+82	Sports	25000	Yes	75%	1 - 1.30 hour	0 - 30 minutes	Awful	Bad	No
+83	Cinema	25000	No	100%	1.30 - 2 hour	0 - 30 minutes	Good	Awful	Yes
+84	Reading books	21	Yes	100%	30 - 60 Minute	30 - 60 minutes	Awful	good	Yes
+85	Cinema	25000	Yes	75%	1 - 1.30 hour	1 - 1.30 hour	Good	Bad	No
+86	Cinema		No	25%	More than 2 hour	0 - 30 minutes	Good	good	No
+87	Video Games	35000	Yes	75%	More than 2 hour	0 - 30 minutes	Bad	good	No
+88	Sports	20000	Yes	75%	30 - 60 Minute	2.30 - 3 hour	fabulous	Awful	No
+89	Sports	15000	Yes	75%	More than 2 hour	1 - 1.30 hour	Good	good	No
+90	Cinema	18000	Yes	100%	1 - 1.30 hour	1 - 1.30 hour	Good	good	No
+91	Sports	20000	Yes	50%	1.30 - 2 hour	2 - 2.30 hour	Bad	good	No
+92	Reading books	30000	Yes	50%	30 - 60 Minute	30 - 60 minutes	Good	good	No
+93	Sports	15000	No	50%	1 - 1.30 hour	30 - 60 minutes	Good	good	No
+94	Cinema	50000	No	100%	More than 2 hour	more than 3 hour	Bad	good	Yes
+95	Sports	25000	Yes	100%	30 - 60 Minute	0 - 30 minutes	Good	good	No
+96	Cinema	20000	Yes	100%	1 - 1.30 hour		Good	Awful	No
+97	Sports	25000	Yes	75%	30 - 60 Minute	1 - 1.30 hour	Good	good	No
+98	Sports	20000	Yes	75%	1.30 - 2 hour	0 - 30 minutes	Good	good	No
+99	Video Games	10000	Yes	25%	1 - 30 Minute	0 - 30 minutes	Good	good	No
+100	Sports	18000	Yes	50%	1 - 1.30 hour	0 - 30 minutes	Bad	Bad	No
+101	Reading books	25000	Yes	50%	1 - 1.30 hour	1.30 - 2 hour	Good	good	No
+102	Reading books	15000	Yes	50%	1.30 - 2 hour	30 - 60 minutes	Good	good	No
+103	Reading books	20000	Yes	75%	1 - 30 Minute	1 - 1.30 hour	Bad	Bad	No
+104	Sports	25000	Yes	75%	1.30 - 2 hour	1 - 1.30 hour	Good	Bad	No
+105	Cinema	30000	Yes	75%	30 - 60 Minute	0 - 30 minutes	Bad	Bad	No
+106	Video Games	20000	Yes	75%	30 - 60 Minute	2 - 2.30 hour	Good	good	No
+107	Video Games	10000	Yes	50%	1 - 30 Minute	0 - 30 minutes	Good	Bad	No
+108	Reading books	30000	Yes	100%	0 Minute	30 - 60 minutes	Good	Bad	No
+109	Sports	20000	Yes	50%	More than 2 hour	more than 3 hour	Good	Bad	No
+110	Sports	20000	Yes	100%	1 - 1.30 hour	1 - 1.30 hour	Good	Bad	Yes
+111	Cinema	12000	Yes	50%	30 - 60 Minute	2 - 2.30 hour	Bad	good	No
+112	Cinema	16000	Yes	50%	30 - 60 Minute		Bad	good	No
+113	Cinema	15000	No	75%	1 - 30 Minute		Bad	Bad	No
+114	Reading books	15000	No	50%	30 - 60 Minute	1.30 - 2 hour	Bad	Awful	Yes
+115	Video Games	25000	Yes	75%	1.30 - 2 hour	0 - 30 minutes	Bad	Bad	No
+116	Video Games	20000	Yes	100%	30 - 60 Minute	30 - 60 minutes	Good	good	No
+117	Sports	17000	Yes	75%	1 - 1.30 hour	2 - 2.30 hour	Bad	good	No
+118	Sports	18000	No	50%	1.30 - 2 hour	1 - 1.30 hour	Good	Bad	Yes
+119	Cinema	15000	Yes	75%	More than 2 hour	0 - 30 minutes	Bad	good	No
+120	Reading books	20000	Yes	75%	30 - 60 Minute	0 - 30 minutes	Good	good	Yes
+121	Video Games	20000	Yes	100%	1.30 - 2 hour		Bad	good	No
+122	Sports	15000	Yes	75%	1 - 1.30 hour	30 - 60 minutes	Good	Bad	Yes
+123	Video Games	20000	Yes	75%	30 - 60 Minute	30 - 60 minutes	Bad	good	No
+124	Cinema	17000	Yes	100%	30 - 60 Minute	30 - 60 minutes	Good	good	No
+125	Cinema	20000	Yes	75%	1 - 1.30 hour	0 - 30 minutes	Good	good	No
+126	Sports	20000	Yes	75%	1 - 30 Minute	1 - 1.30 hour	Good	Bad	No
+127	Cinema	20000	Yes	100%	1 - 30 Minute	1 - 1.30 hour	Good	good	No
+128	Reading books	20000	Yes	75%	30 - 60 Minute	1.30 - 2 hour	Good	Bad	No
+129	Cinema	25000	Yes	50%	30 - 60 Minute	30 - 60 minutes	Good	Bad	No
+130	Sports	50000	Yes	75%	1 - 1.30 hour	1.30 - 2 hour	Good	Awful	No
+131	Sports	18000	Yes	50%	1.30 - 2 hour	0 - 30 minutes	Good	good	No
+132	Sports		Yes	75%	1 - 1.30 hour	0 - 30 minutes	Good	good	No
+133	Cinema	5000	Yes	50%	1 - 30 Minute	30 - 60 minutes	Good	good	No
+134	Video Games	20000	Yes	50%	1 - 30 Minute	30 - 60 minutes	fabulous	good	No
+135	Sports	20000	Yes	75%	1 - 30 Minute	1.30 - 2 hour	Good	good	No
+136	Cinema	20000	Yes	75%	More than 2 hour	30 - 60 minutes	Good	good	No
+137	Reading books	12500	No	75%	30 - 60 Minute	1 - 1.30 hour	Good	Bad	No
+138	Video Games	20000	Yes	75%	30 - 60 Minute	1 - 1.30 hour	Good	good	Yes
+139	Sports	15000	Yes	75%	More than 2 hour	0 - 30 minutes	Good	good	No
+140	Sports	12000	No	0%	1 - 30 Minute	30 - 60 minutes	Good	good	No
+141	Sports		Yes	50%	30 - 60 Minute	0 - 30 minutes	Good	good	No
+142	Sports	25000	Yes	50%	30 - 60 Minute	30 - 60 minutes	Bad	good	No
+143	Reading books	15000	No	25%	1 - 30 Minute	more than 3 hour	Good	Bad	Yes
+144	Sports	10000	Yes	100%	30 - 60 Minute	2 - 2.30 hour	Good	good	No
+145	Sports	100000	Yes	100%	30 - 60 Minute	1.30 - 2 hour	fabulous	Bad	No
+146	Cinema	15000	Yes	25%	1 - 30 Minute	0 - 30 minutes	fabulous	Fabulous	Yes
+147	Cinema	5000	Yes	50%	30 - 60 Minute	1 - 1.30 hour	Good	Bad	No
+148	Reading books	30000	No	50%	30 - 60 Minute	1 - 1.30 hour	Good	Bad	No
+149	Sports	10000	Yes	75%	More than 2 hour	30 - 60 minutes	Bad	Bad	No
+150	Video Games	20000	Yes	75%	1 - 1.30 hour	1 - 1.30 hour	Good	Bad	No
+151	Sports	30000	Yes	50%	30 - 60 Minute	1.30 - 2 hour	Good	good	No
+152	Sports	20000	Yes	50%	30 - 60 Minute	1 - 1.30 hour	Awful	good	No
+153	Cinema	13000	Yes	50%	1.30 - 2 hour	0 - 30 minutes	Awful	Awful	No
+154	Reading books	100000	Yes	75%	30 - 60 Minute	30 - 60 minutes	Bad	Bad	No
+155	Video Games	25000	Yes	75%	30 - 60 Minute	0 - 30 minutes	Good	Bad	No
+156	Video Games	15000	Yes	75%	1 - 1.30 hour	2 - 2.30 hour	Good	good	No
+157	Cinema	50000	Yes	75%	1 - 30 Minute	30 - 60 minutes	Good	Bad	Yes
+158	Sports	15000	Yes	75%	More than 2 hour	1 - 1.30 hour	Good	Bad	No
+159	Cinema	15000	Yes	50%	1 - 1.30 hour	0 - 30 minutes	fabulous	good	Yes
+160	Sports	15000	No	25%	1 - 1.30 hour	30 - 60 minutes	Awful	Bad	No
+161	Video Games	40000	Yes	25%	30 - 60 Minute	2 - 2.30 hour	Bad	Bad	No
+162	Video Games	15000	Yes	75%	30 - 60 Minute	2.30 - 3 hour	Good	good	Yes
+163	Reading books	25000	Yes	100%	1 - 30 Minute	1.30 - 2 hour	Good	Bad	Yes
+164	Cinema	25000	Yes	100%	30 - 60 Minute	more than 3 hour	Good	Bad	No
+165	Video Games	35000	Yes	50%	30 - 60 Minute	2 - 2.30 hour	Bad	good	No
+166	Cinema	18000	Yes	100%	More than 2 hour	0 - 30 minutes	Bad	good	No
+167	Sports	40000	Yes	75%	1 - 1.30 hour	1.30 - 2 hour	Good	good	No
+168	Cinema		Yes	75%	1.30 - 2 hour	more than 3 hour	Good	good	No
+169	Sports	15000	Yes	50%	1.30 - 2 hour	30 - 60 minutes	Good	good	No
+170	Sports	20000	Yes	75%	30 - 60 Minute	0 - 30 minutes	Good	Fabulous	No
+171	Sports	25000	Yes	50%	1 - 30 Minute		Good	Bad	Yes
+172	Cinema	15000	Yes	50%	More than 2 hour	30 - 60 minutes	Good	Bad	No
+173	Sports	15000	Yes	75%	1 - 1.30 hour	30 - 60 minutes	Good	good	Yes
+174	Cinema	25000	Yes	0%	More than 2 hour	1.30 - 2 hour	Good	Bad	No
+175	Sports	11000	Yes	75%	1 - 1.30 hour	1 - 1.30 hour	Good	Bad	No
+176	Sports	25000	Yes	100%	1 - 1.30 hour	30 - 60 minutes	Good	Bad	No
+177	Cinema		Yes	50%	1 - 1.30 hour		Bad	Bad	No
+178	Cinema	10000	Yes	50%	30 - 60 Minute	30 - 60 minutes	Bad	Awful	No
+179	Cinema	120000	Yes	50%	1 - 1.30 hour	0 - 30 minutes	Good	Bad	No
+180	Cinema	15000	Yes	75%	1 - 30 Minute	30 - 60 minutes	Bad	Bad	No
+181	Video Games	45000	Yes	50%	30 - 60 Minute	30 - 60 minutes	Bad	Bad	Yes
+182	Sports	5000	Yes	25%	30 - 60 Minute	1 - 1.30 hour	Good	Bad	No
+183	Cinema	23000	Yes	100%	More than 2 hour	1 - 1.30 hour	Good	good	No
+184	Sports	30000	Yes	50%	1 - 30 Minute	1 - 1.30 hour	Bad	Bad	No
+185	Cinema	500000	Yes	50%	1 - 30 Minute	0 - 30 minutes	Awful	Awful	No
+186	Sports	40000	Yes	75%	1 - 30 Minute	more than 3 hour	Bad	Bad	No
+187	Sports	30000	Yes	75%	30 - 60 Minute	1 - 1.30 hour	Good	good	No
+188	Sports	700000	Yes	100%	1 - 30 Minute	0 - 30 minutes	Good	good	No
+189	Reading books	12000	Yes	50%	1 - 30 Minute	0 - 30 minutes	Good	Awful	No
+190	Video Games	20000	Yes	75%	30 - 60 Minute	30 - 60 minutes	Good	good	No
+191	Video Games	20000	Yes	50%	1 - 1.30 hour	1 - 1.30 hour	Good	good	No
+192	Video Games	15000	Yes	100%	1 - 30 Minute	0 - 30 minutes	Good	good	No
+193	Video Games	20000	Yes	50%	30 - 60 Minute	1 - 1.30 hour	Bad	Bad	No
+194	Cinema	15000	Yes	75%	1 - 30 Minute	30 - 60 minutes	Bad	good	No
+195	Cinema	10000	Yes	75%	1 - 30 Minute	30 - 60 minutes	Bad	good	Yes
+196	Sports	10	No	75%	30 - 60 Minute	30 - 60 minutes	fabulous	good	No
+197	Cinema	30000	Yes	100%	1 - 30 Minute	30 - 60 minutes	Good	good	No
+198	Cinema	25000	Yes	75%	1 - 30 Minute	0 - 30 minutes	Good	good	No
+199	Sports		Yes	75%	1 - 30 Minute	1.30 - 2 hour	Bad	Bad	No
+200	Reading books	50000	Yes	75%	More than 2 hour	1 - 1.30 hour	Bad	good	Yes
+201	Cinema	15000	Yes	75%	More than 2 hour	30 - 60 minutes	Bad	Bad	Yes
+202	Cinema	10000	Yes	75%	1.30 - 2 hour	0 - 30 minutes	Good	good	No
+203	Cinema	15000	Yes	50%	More than 2 hour	30 - 60 minutes	Good	Bad	No
+204	Sports	13000	Yes	50%	1 - 30 Minute	1 - 1.30 hour	Good	Bad	No
+205	Sports	10000	Yes	75%	30 - 60 Minute	30 - 60 minutes	Bad	Bad	No
+206	Cinema	13000	Yes	75%	30 - 60 Minute	0 - 30 minutes	Good	good	No
+207	Sports	15000	Yes	50%	More than 2 hour	1 - 1.30 hour	Good	good	Yes
+208	Cinema		Yes	50%	More than 2 hour	0 - 30 minutes	Good	Fabulous	Yes
+209	Video Games	15000	Yes	75%	More than 2 hour	1 - 1.30 hour	Bad	Bad	Yes
+210	Sports	15	Yes	75%	1 - 1.30 hour	30 - 60 minutes	Bad	good	No
+211	Cinema	22	Yes	75%	1 - 1.30 hour	1 - 1.30 hour	Good	good	No
+212	Cinema	15000	Yes	75%	30 - 60 Minute	1 - 1.30 hour	Good	good	No
+213	Sports	12000	Yes	75%	1 - 1.30 hour	2 - 2.30 hour	Good	Bad	Yes
+214	Reading books	15000	Yes	75%	1 - 1.30 hour	30 - 60 minutes	Good	good	Yes
+215	Sports	15000	Yes	100%	30 - 60 Minute	0 - 30 minutes	Good	good	No
+216	Cinema	20000	Yes	75%	30 - 60 Minute	30 - 60 minutes	Good	good	No
+217	Cinema	20000	Yes	75%	More than 2 hour	0 - 30 minutes	Awful	good	No
+218	Sports	20000	Yes	75%	1 - 30 Minute	30 - 60 minutes	Good	good	No
+219	Cinema	20000	Yes	100%	30 - 60 Minute	more than 3 hour	Bad	Bad	No
+220	Cinema	20000	Yes	100%	1 - 30 Minute	30 - 60 minutes	Awful	Bad	No
+221	Cinema	20000	Yes	75%	30 - 60 Minute	0 - 30 minutes	Good	good	No
+222	Sports	100	Yes	75%	1 - 1.30 hour	0 - 30 minutes	Good	Bad	No
+223	Cinema	16000	Yes	50%	1.30 - 2 hour	0 - 30 minutes	fabulous	Bad	No
+224	Reading books	15000	Yes	100%	30 - 60 Minute	0 - 30 minutes	Good	good	Yes
+225	Reading books	15000	Yes	100%	1 - 30 Minute	0 - 30 minutes	Good	good	No
+226	Reading books	15000	Yes	75%	30 - 60 Minute	30 - 60 minutes	Good	good	No
+227	Sports	17000	Yes	25%	0 Minute	0 - 30 minutes	Awful	Bad	No
+228	Sports	500	Yes	100%	1.30 - 2 hour	1 - 1.30 hour	Good	good	No
+229	Sports	15000	Yes	75%	1 - 1.30 hour	0 - 30 minutes	Good	Bad	No
+230	Video Games	7000	Yes	50%	More than 2 hour	30 - 60 minutes	Bad	Bad	No
+231	Cinema	25000	Yes	75%	30 - 60 Minute	30 - 60 minutes	Good	good	No
+232	Cinema		Yes	50%	30 - 60 Minute	2.30 - 3 hour	Bad	good	No
+233	Cinema		Yes	75%	More than 2 hour	2.30 - 3 hour	Awful	good	No
+234	Sports	10	No	75%	30 - 60 Minute	2.30 - 3 hour	fabulous	good	No
